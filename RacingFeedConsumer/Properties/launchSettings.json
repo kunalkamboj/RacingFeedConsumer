@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "RacingFeedConsumer": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
